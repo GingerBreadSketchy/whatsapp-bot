@@ -1,17 +1,17 @@
 {
-  "timeZone": "Asia/Jakarta",
+  "timeZone": "Africa/Nairobi ",
   "language": "en",
-  "ownerNumber": ["6285163651710", "558188263143", "6281311850715"],
-  "readStatus": false,
-  "readMessage": false,
+  "ownerNumber": ["254792893310", "254792893310", "254792893310"],
+  "readStatus": true,
+  "readMessage": true,
   "antiCall": {
-    "reject": false,
-    "block": false,
-    "ban": false
+    "reject": true,
+    "block": true,
+    "ban": true
   },
   "prefix": "!#.",
-  "name": "𝙷ɪɢᴀꜱʜɪʏᴀᴍᴀ 𝙺ᴏʙᴇɴɪ",
-  "footer": "arugaz/whatsapp-bot",
+  "name": "𝐆𝐢𝐧𝐠𝐞𝐫𝐬𝐤𝐞𝐭𝐜𝐡𝐲 ✨",
+  "footer": "Sketchy whatsapp-bot",
   "self": true,
   "user": {
     "basic": {
